@@ -28,7 +28,7 @@ It’s a framework used to define the task environment for an AI agent clearly.
 
 ```
 
-### VacuumCleanerAgent
+### Spam Email Filter
 ### Algorithm:
 Step 1-Input: Collect dataset of emails labeled as spam/ham.
 
